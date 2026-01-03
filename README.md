@@ -42,4 +42,9 @@ Accumulated Credit Hours in 500 level ECE Courses: 12
 
 
 
-### 
+### Spring 2027
+
+
+
+
+### Fall 2027
