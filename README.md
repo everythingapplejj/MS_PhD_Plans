@@ -14,11 +14,27 @@ MS Degree Requirement: https://catalog.illinois.edu/graduate/engineering/electri
 | ECE 500         | ECE Colloquium        | Colloquium          | 0         |
 | 	ECE 598   | Deep Generative Models     | Machine Learning & Artificial Intelligence     | 4    |
 | ECE 549 | Computer Vision | Machine Learning & Artificial Intelligence  | 4 | 
- | ECE 449 | Machine Learning | Machine Learning & Artificial Intelligence  | 4 | 
+ | ECE 498 | LLM Reasoning for Engineering | Machine Learning & Artificial Intelligence  | 4 | 
+ 
+Total Credit Hours: 12
+
+Accumulated Credit Hours in 500 level ECE courses: 8
+
+**Spring 2026 Jobs**
+* Teaching Assistant for ECE 391 
+* Software Engineering Position at Rokwire
+
+
+### Fall 2026
+
+| Class Code | Class Name  | Class Sector | Credit Hour |
+|:-------------|:--------------:|:--------------:|--------------:|
+| ECE 500         | ECE Colloquium        | Colloquium          | 0         |
+| ECE 422         | Computer Security 1       | Cybersecurity         | 4         |
+| ECE 599         | Thesis Research      | Thesis         | 4         |
+| ECE 534        | Ramdom Processes     | Machine Learning & Artificial Intelligence         | 4         |
 
 Total Credit Hours: 12
 
-Credit Hours in 500 level ECE courses: 8
+Accumulated Credit Hours in 500 level ECE Courses: 12
 
-* Teaching Assistant for ECE 391 
-* Software Engineering Position at Rokwire
