@@ -38,3 +38,8 @@ Total Credit Hours: 12
 
 Accumulated Credit Hours in 500 level ECE Courses: 12
 
+**Fall 2026 Jobs**
+
+
+
+### 
