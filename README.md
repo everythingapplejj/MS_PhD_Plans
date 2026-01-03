@@ -17,6 +17,7 @@ MS Degree Requirement: https://catalog.illinois.edu/graduate/engineering/electri
  | ECE 449 | Machine Learning | Machine Learning & Artificial Intelligence  | 4 | 
 
 Total Credit Hours: 12
+
 Credit Hours in 500 level ECE courses: 8
 
 * Teaching Assistant for ECE 391 
